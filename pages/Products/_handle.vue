@@ -46,7 +46,7 @@
 <script>
 import { pathOr } from 'ramda';
 // import { ProductByHandle } from '~/gql/queries/shopify.gql';
-import { ProductByHandle } from '../../gql/queries/Shopify.gql';
+import { ProductByHandle } from '../../gql/queries/Shopify';
 
 import BreadCrumb from '~/components/BreadCrumb';
 import AppButton from '~/components/common/AppButton.vue';
