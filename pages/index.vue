@@ -18,7 +18,9 @@
 
 <script>
 import { pathOr } from 'ramda';
-import { Products } from '~/gql/queries/shopify.gql';
+// import { Products } from '~/gql/queries/shopify.gql';
+import { Products } from '../../gql/queries/shopify.gql'
+
 
 import ProductTile from '~/components/Product/ProductTile.vue';
 
